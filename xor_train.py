@@ -41,16 +41,3 @@ for i in range(len(label)):
 #     total += 1
 
 print('정답률:',ok/total)
-
-
-
-
-
-
-
-
-
-
-
-
-
